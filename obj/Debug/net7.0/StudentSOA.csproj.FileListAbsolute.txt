@@ -1,0 +1,15 @@
+/home/vasilis/dotNetProjects/StudentSOA/bin/Debug/net7.0/StudentSOA
+/home/vasilis/dotNetProjects/StudentSOA/bin/Debug/net7.0/StudentSOA.deps.json
+/home/vasilis/dotNetProjects/StudentSOA/bin/Debug/net7.0/StudentSOA.runtimeconfig.json
+/home/vasilis/dotNetProjects/StudentSOA/bin/Debug/net7.0/StudentSOA.dll
+/home/vasilis/dotNetProjects/StudentSOA/bin/Debug/net7.0/StudentSOA.pdb
+/home/vasilis/dotNetProjects/StudentSOA/obj/Debug/net7.0/StudentSOA.csproj.AssemblyReference.cache
+/home/vasilis/dotNetProjects/StudentSOA/obj/Debug/net7.0/StudentSOA.GeneratedMSBuildEditorConfig.editorconfig
+/home/vasilis/dotNetProjects/StudentSOA/obj/Debug/net7.0/StudentSOA.AssemblyInfoInputs.cache
+/home/vasilis/dotNetProjects/StudentSOA/obj/Debug/net7.0/StudentSOA.AssemblyInfo.cs
+/home/vasilis/dotNetProjects/StudentSOA/obj/Debug/net7.0/StudentSOA.csproj.CoreCompileInputs.cache
+/home/vasilis/dotNetProjects/StudentSOA/obj/Debug/net7.0/StudentSOA.dll
+/home/vasilis/dotNetProjects/StudentSOA/obj/Debug/net7.0/refint/StudentSOA.dll
+/home/vasilis/dotNetProjects/StudentSOA/obj/Debug/net7.0/StudentSOA.pdb
+/home/vasilis/dotNetProjects/StudentSOA/obj/Debug/net7.0/StudentSOA.genruntimeconfig.cache
+/home/vasilis/dotNetProjects/StudentSOA/obj/Debug/net7.0/ref/StudentSOA.dll
